@@ -2,7 +2,7 @@
   "name": "casbin-editor",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://casbin.org/casbin-editor/",
+  "homepage": "https://imp2002.github.io/casbin-editor/",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
